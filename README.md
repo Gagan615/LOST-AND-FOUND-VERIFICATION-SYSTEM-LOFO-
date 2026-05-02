@@ -92,19 +92,13 @@ npm run dev
 
 ---
 
-## 📸 System Previews
-
-| Command Center (Dashboard) | Verification Vault |
-| :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/600x400/111111/B11226?text=MISSION+CONTROL) | ![Verification](https://via.placeholder.com/600x400/111111/FFFFFF?text=PROOF+UPLOAD) |
-
 ---
 
 ## 👥 The Engineering Team
 
-*   **Gagandeep Singh** — *Lead Systems Architect*
-*   **Sandeep Yadav** — *Backend Security & DB*
-*   **Prabhgun Kaur** — *Frontend UI/UX Specialist*
+*   **Gagandeep Singh**
+*   **Sandeep Yadav**
+*   **Prabhgun Kaur** 
 
 ---
 
